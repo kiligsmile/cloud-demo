@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/eureka-server" />
     <file type="web" url="file://$PROJECT_DIR$/feign-api" />
+    <file type="web" url="file://$PROJECT_DIR$/gateway" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
